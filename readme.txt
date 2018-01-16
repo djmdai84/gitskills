@@ -56,4 +56,4 @@ Creating a new branch is quick and simple.
 
 test ff
 
-Git is a free software 
+Git is free software
