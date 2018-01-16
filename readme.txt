@@ -1,9 +1,6 @@
 ﻿Git is a version control system.
 Git is free software.
 
-git config --global user.name "djmdai84"
-git config --global user.email "261837197@qq.com"
-
 cd /d/bigdata/gitcode
 git init
 ls -ah
@@ -53,3 +50,5 @@ git checkout -b dev
 git branch
 
 Creating a new branch is quick.
+
+Creating a new branch is quick AND simple.
